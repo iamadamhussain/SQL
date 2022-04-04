@@ -1,0 +1,12 @@
+"empid";"name";"dept_id";"address";"job";"hiredate";"salary"
+500;"Rani";102;"";"java";"2019-08-29";13000
+501;"Rani";103;"Banglore";"sales";"2019-01-02";13000
+502;"Jay";102;"Banglore";"net";"2019-05-02";6000
+503;"Kumar";101;"Banglore";"admin";"2020-01-02";4000
+504;"H";102;"Banglore";"web";"2020-04-02";4000
+505;"";101;"Banglore";"admin";"2019-05-03";5000
+506;"L";103;"Banglore";"sales";"2021-01-02";8000
+507;"G";103;"Banglore";"sales";"2019-01-02";10000
+508;"C";101;"Banglore";"admin";"2021-07-02";6000
+509;"B";102;"Banglore";"testing";"2022-01-02";7000
+510;"I";102;"Banglore";"java";"2022-02-22";8000
